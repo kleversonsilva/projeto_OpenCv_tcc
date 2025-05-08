@@ -1,4 +1,4 @@
-# Projeto de Análise de Imagens e Reconhecimento Facial com Python e OpenCV
+# Análise de Imagens e Reconhecimento Facial com Python e OpenCV
 
 Este repositório contém um projeto desenvolvido em Python com a biblioteca OpenCV (cv2) para realizar análise de imagens, detecção de faces e um exemplo básico de reconhecimento facial, utilizando classificadores HaarCascade.
 
