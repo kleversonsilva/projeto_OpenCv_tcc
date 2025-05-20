@@ -6,8 +6,7 @@ Este repositório contém um projeto desenvolvido em Python com a biblioteca Ope
 
 *   **Detecção de Faces em Imagens:** Detecta e delimita rostos em imagens estáticas.
 *   **Detecção de Rosto via Webcam:** Detecta e delimita rostos em tempo real usando a webcam.
-*   **Reconhecimento Facial (Exemplo Simplificado)
-
+  
 ## Tecnologias Utilizadas
 
 *   **Python:** Linguagem de programação.
