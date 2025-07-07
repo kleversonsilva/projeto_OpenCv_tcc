@@ -3,9 +3,9 @@
 import cv2
 
 carregaAlgoritmo= cv2.CascadeClassifier('haarcascades/haarcascade_frontalface_default.xml') #carregar o arquivo xml-daPasta_haacacade
-imagem = cv2.imread('fotos/imagem01.jpg') #carregarAimagem rtfffttttttttttttttdctt
+imagem = cv2.imread('fotos/imagem01.jpg') #carregarAimagem Aqui...
 
-imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) #Utilizar_aImagem_escala_sinza
+imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) #Utilizar_aImagem_escala_sinza aqui...
 
 faces = carregaAlgoritmo.detectMultiScale(imagemCinza)  #detecçao_das_faces............................................................................
 print(faces)

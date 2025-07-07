@@ -4,7 +4,7 @@
 import cv2
 
 carregaAlgoritmo= cv2.CascadeClassifier('haarcascades/haarcascade_frontalface_default.xml')
-imagem = cv2.imread('fotos/image02.jpg') #carregarAimagem
+imagem = cv2.imread('fotos/image02.jpg') #carregarAimagem_Aqui...
 
 imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY) #Utilizar_aImagem_escala_sinza
 
